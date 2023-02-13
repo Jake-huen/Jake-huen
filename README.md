@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World&font=Redressed&size=40)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jake-huen)](https://github.com/Jake-huen/github-readme-stats)
-
 ![TaeHeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jake-huen&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tae77777)](https://solved.ac/tae77777/)
 
