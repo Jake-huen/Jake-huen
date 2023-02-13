@@ -28,7 +28,7 @@
 
 ![Amzon EC2](https://img.shields.io/badge/Amzon%20EC2-FF9900.svg?&style=for-the-badge&logo=Amzon%20EC2&logoColor=white)
 
-# :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Tistory Blog Badge](http://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&link=https://jobdong7757.tistory.com/)](https://jobdong7757.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taehuen7757@gmail.com)](mailto:taehuen7757@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tae77777@naver.com)](mailto:tae77777@naver.com)
