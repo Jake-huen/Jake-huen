@@ -30,7 +30,6 @@
 
 ### Deploy
 ![Amzon EC2](https://img.shields.io/badge/Amzon%20EC2-FF9900.svg?&style=for-the-badge&logo=Amzon%20EC2&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white)
 
 # :mailbox_with_mail: Contacts
 [![Tistory Blog Badge](http://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&link=https://jobdong7757.tistory.com/)](https://jobdong7757.tistory.com/)
