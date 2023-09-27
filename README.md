@@ -39,7 +39,7 @@
 ## ✅ 최근 블로그 글
 
 [2023/09/21 - 데이터베이스 면접 2주차](https://jobdong7757.tistory.com/214) <br/>
-[2023/09/14 - 데이터베이스 면접 준비(1주차)](https://jobdong7757.tistory.com/213) <br/>
+[2023/09/14 - 데이터베이스 면접 질문 1주차](https://jobdong7757.tistory.com/213) <br/>
 [2023/09/11 - [프로그래머스] 에어컨](https://jobdong7757.tistory.com/212) <br/>
 [2023/09/06 - GithubAction을 이용해서 Spring 프로젝트 CI/CD(with Docker)](https://jobdong7757.tistory.com/211) <br/>
 [2023/08/25 - 세션](https://jobdong7757.tistory.com/210) <br/>
