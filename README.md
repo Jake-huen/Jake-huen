@@ -38,9 +38,9 @@
 
 ## ✅ 최근 블로그 글
 
+[2023/10/10 - YAPP 면접 질문들](https://jobdong7757.tistory.com/219) <br/>
 [2023/10/08 - [백준 알고리즘 12100] 2048 (Easy)](https://jobdong7757.tistory.com/218) <br/>
 [2023/10/05 - 데이터베이스 면접 스터디 4주차](https://jobdong7757.tistory.com/217) <br/>
 [2023/10/05 - 데이터베이스 면접 스터디 3주차](https://jobdong7757.tistory.com/216) <br/>
 [2023/10/03 - JWT 인증을 사용하는 이유](https://jobdong7757.tistory.com/215) <br/>
 [2023/09/21 - 데이터베이스 면접 2주차](https://jobdong7757.tistory.com/214) <br/>
-[2023/09/14 - 데이터베이스 면접 질문 1주차](https://jobdong7757.tistory.com/213) <br/>
