@@ -38,9 +38,9 @@
 
 ## ✅ 최근 블로그 글
 
+[2023/11/11 - [Spring] 회원 탈퇴 기능](https://jobdong7757.tistory.com/223) <br/>
 [2023/11/08 - 네트워크 면접 스터디 1주차](https://jobdong7757.tistory.com/222) <br/>
 [2023/10/12 - 데이터베이스 면접 5주차](https://jobdong7757.tistory.com/220) <br/>
 [2023/10/08 - [백준 알고리즘 12100] 2048 (Easy)](https://jobdong7757.tistory.com/218) <br/>
 [2023/10/05 - 데이터베이스 면접 스터디 4주차](https://jobdong7757.tistory.com/217) <br/>
 [2023/10/05 - 데이터베이스 면접 스터디 3주차](https://jobdong7757.tistory.com/216) <br/>
-[2023/10/03 - JWT 인증을 사용하는 이유](https://jobdong7757.tistory.com/215) <br/>
