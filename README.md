@@ -38,9 +38,9 @@
 
 ## ✅ 최근 블로그 글
 
+[2023/12/02 - 운영체제 질문 리스트](https://jobdong7757.tistory.com/229) <br/>
 [2023/11/27 - 합승 택시 요금](https://jobdong7757.tistory.com/228) <br/>
 [2023/11/22 - TCP 네트워크 면접 질문](https://jobdong7757.tistory.com/227) <br/>
 [2023/11/21 - UDP, 신뢰적 데이터 전송 면접 질문](https://jobdong7757.tistory.com/226) <br/>
 [2023/11/21 - DNS 면접 질문](https://jobdong7757.tistory.com/225) <br/>
 [2023/11/15 - HTTPS 면접 질문](https://jobdong7757.tistory.com/224) <br/>
-[2023/11/11 - [Spring] 회원 탈퇴 기능](https://jobdong7757.tistory.com/223) <br/>
