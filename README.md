@@ -38,9 +38,9 @@
 
 ## ✅ 최근 블로그 글
 
-[2023/11/27 - 합승 택시 요금](https://jobdong7757.tistory.com/228) <br/>
+[2023/12/07 - 쿠버네티스에 스프링 프로젝트 배포하기(macOS m1)](https://jobdong7757.tistory.com/232) <br/>
+[2023/12/07 - ArgoCD](https://jobdong7757.tistory.com/231) <br/>
+[2023/12/07 - 대규모 트래픽의 경우 생각해보아야 할 것](https://jobdong7757.tistory.com/230) <br/>
 [2023/11/11 - [Spring] 회원 탈퇴 기능](https://jobdong7757.tistory.com/223) <br/>
 [2023/10/08 - [백준 알고리즘 12100] 2048 (Easy)](https://jobdong7757.tistory.com/218) <br/>
 [2023/10/03 - JWT 인증을 사용하는 이유](https://jobdong7757.tistory.com/215) <br/>
-[2023/09/06 - GithubAction을 이용해서 Spring 프로젝트 CI/CD(with Docker)](https://jobdong7757.tistory.com/211) <br/>
-[2023/08/25 - 세션](https://jobdong7757.tistory.com/210) <br/>
