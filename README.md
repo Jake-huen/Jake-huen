@@ -38,9 +38,9 @@
 
 ## ✅ 최근 블로그 글
 
+[2024/01/08 - DataBase 설정 준비가 되지 않았을 때](https://jobdong7757.tistory.com/234) <br/>
+[2024/01/08 - 데이터 전달과 HTTP 메시지 컨버터(Spring)](https://jobdong7757.tistory.com/233) <br/>
 [2023/12/07 - 쿠버네티스에 스프링 프로젝트 배포하기(macOS m1)](https://jobdong7757.tistory.com/232) <br/>
 [2023/12/07 - ArgoCD](https://jobdong7757.tistory.com/231) <br/>
 [2023/12/07 - 대규모 트래픽의 경우 생각해보아야 할 것](https://jobdong7757.tistory.com/230) <br/>
 [2023/11/11 - [Spring] 회원 탈퇴 기능](https://jobdong7757.tistory.com/223) <br/>
-[2023/10/08 - [백준 알고리즘 12100] 2048 (Easy)](https://jobdong7757.tistory.com/218) <br/>
-[2023/10/03 - JWT 인증을 사용하는 이유](https://jobdong7757.tistory.com/215) <br/>
