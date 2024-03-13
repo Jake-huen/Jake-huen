@@ -47,9 +47,9 @@
 
 ## ✅ 최근 블로그 글
 
+[2024/03/12 - DiscoveryService 프라이빗 클라우드에 배포하기](https://jobdong7757.tistory.com/238) <br/>
 [2024/03/08 - 쿠버네티스에 배포할 때 사용할 객체](https://jobdong7757.tistory.com/237) <br/>
 [2024/03/08 - 쿠버네티스 등장 배경과 용어](https://jobdong7757.tistory.com/236) <br/>
 [2024/03/05 - Service Discovery](https://jobdong7757.tistory.com/235) <br/>
 [2024/01/08 - [Spring] DataBase 설정 준비가 되지 않았을 때](https://jobdong7757.tistory.com/234) <br/>
 [2024/01/08 - [Spring] 데이터 전달과 HTTP 메시지 컨버터](https://jobdong7757.tistory.com/233) <br/>
-[2023/12/07 - [DevOps] 쿠버네티스에 스프링 프로젝트 배포하기(macOS m1)](https://jobdong7757.tistory.com/232) <br/>
