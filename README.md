@@ -43,9 +43,9 @@
 
 ## ✅ 최근 블로그 글
 
-[2024/03/27 - springboot 개발환경에 따라 yml 설정 파일 다르게 적용하기](https://jobdong7757.tistory.com/242) <br/>
-[2024/03/15 - Kafka, Zookeeper Docker-Compose로 Ubuntu 서버 배포](https://jobdong7757.tistory.com/241) <br/>
-[2024/03/14 - 쿠버네티스 Discovery, API Gateway, Microservice 연동](https://jobdong7757.tistory.com/240) <br/>
-[2024/03/13 - [Kubernetes] kubectl 자동완성 에러 _get_comp_words_by_ref: command not found](https://jobdong7757.tistory.com/239) <br/>
-[2024/03/12 - 마이크로서비스 프라이빗 클라우드에 배포하기](https://jobdong7757.tistory.com/238) <br/>
-[2024/03/08 - 쿠버네티스에 배포할 때 사용할 객체](https://jobdong7757.tistory.com/237) <br/>
+[2024/03/27 - springboot 개발환경에 따라 yml 설정 파일 다르게 적용하기](http://jobdong7757.tistory.com/242) <br/>
+[2024/03/15 - Kafka, Zookeeper Docker-Compose로 Ubuntu 서버 배포](http://jobdong7757.tistory.com/241) <br/>
+[2024/03/14 - 쿠버네티스 Discovery, API Gateway, Microservice 연동](http://jobdong7757.tistory.com/240) <br/>
+[2024/03/13 - [Kubernetes] kubectl 자동완성 에러 _get_comp_words_by_ref: command not found](http://jobdong7757.tistory.com/239) <br/>
+[2024/03/12 - 마이크로서비스 프라이빗 클라우드에 배포하기](http://jobdong7757.tistory.com/238) <br/>
+[2024/03/08 - 쿠버네티스에 배포할 때 사용할 객체](http://jobdong7757.tistory.com/237) <br/>
