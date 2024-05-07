@@ -3,7 +3,8 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%ED%83%9C%ED%97%8C%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=224BF7&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%ED%83%9C%ED%97%8C%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+
 ![TaeHeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jake-huen&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tae77777)](https://solved.ac/tae77777/)
@@ -42,9 +43,9 @@
 
 ## ✅ 최근 블로그 글
 
-[2024/04/25 - Spring Security를 사용하기 위해 알아야하는 사용자 요청의 흐름](http://jobdong7757.tistory.com/243) <br/>
-[2024/03/27 - springboot 개발환경에 따라 yml 설정 파일 다르게 적용하기](http://jobdong7757.tistory.com/242) <br/>
-[2024/03/15 - Kafka, Zookeeper Docker-Compose로 Ubuntu 서버 배포](http://jobdong7757.tistory.com/241) <br/>
-[2024/03/14 - 쿠버네티스 Discovery, API Gateway, Microservice 연동](http://jobdong7757.tistory.com/240) <br/>
-[2024/03/13 - [Kubernetes] kubectl 자동완성 에러 _get_comp_words_by_ref: command not found](http://jobdong7757.tistory.com/239) <br/>
-[2024/03/12 - 마이크로서비스 프라이빗 클라우드에 배포하기](http://jobdong7757.tistory.com/238) <br/>
+[2024/04/25 - Spring Security를 사용하기 위해 알아야하는 사용자 요청의 흐름](http://jobdong7757.tistory.com/243) <br/> <br/>
+[2024/03/27 - springboot 개발환경에 따라 yml 설정 파일 다르게 적용하기](http://jobdong7757.tistory.com/242) <br/> <br/>
+[2024/03/15 - Kafka, Zookeeper Docker-Compose로 Ubuntu 서버 배포](http://jobdong7757.tistory.com/241) <br/> <br/>
+[2024/03/14 - 쿠버네티스 Discovery, API Gateway, Microservice 연동](http://jobdong7757.tistory.com/240) <br/> <br/>
+[2024/03/13 - [Kubernetes] kubectl 자동완성 에러 _get_comp_words_by_ref: command not found](http://jobdong7757.tistory.com/239) <br/> <br/>
+[2024/03/12 - 마이크로서비스 프라이빗 클라우드에 배포하기](http://jobdong7757.tistory.com/238) <br/> <br/>
