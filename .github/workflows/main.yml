@@ -10,6 +10,7 @@ on:
     branches: [ "main" ]
   schedule:
       - cron: "0 0 */1 * *"
+      - cron: "5 15 * * *"
 
 jobs:
   build:
@@ -36,5 +37,5 @@ jobs:
         git diff
         git config --local user.email "tae77777@naver.com"
         git config --local user.name "Jake-huen"
-        git commit -m "Updating Blog Posts"
+        git commit --allow-empty -m "Updating Blog Posts"
         git push
