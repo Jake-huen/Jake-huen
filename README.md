@@ -41,7 +41,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taehuen7757@gmail.com)](mailto:taehuen7757@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tae77777@naver.com)](mailto:tae77777@naver.com)
 
-## ✅ 최근 블로그 글
+## ✅ 최근 작성한 블로그 글
 
 [2024/07/05 - Jenkins, Kubernetes, Helm, ArgoCD 를 이용한 GitOps 적용](http://jobdong7757.tistory.com/245) <br/> <br/>
 [2024/05/20 - Worker Node를 내려야 할 필요가 있을 경우 안전한 이동](http://jobdong7757.tistory.com/244) <br/> <br/>
