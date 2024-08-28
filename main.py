@@ -15,9 +15,9 @@ markdown_text = """
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tae77777)](https://solved.ac/tae77777/)
 
-## 🌟 [김태헌 Portfolio](https://tae77777.oopy.io/) 🌟
+## 🌟 <a href="https://tae77777.oopy.io/" style="color:#FF6347; text-decoration:none; font-weight:bold;" onmouseover="this.style.color='#FFD700'; this.style.transition='0.3s';" onmouseout="this.style.color='#FF6347';">My Portfolio</a> 🌟
 
-🔗 **Check out my work and projects here!**
+🔗 **<span style="color:#FF6347;">Check out my work and projects here!</span>**
 
 
 ## 📚 Tech Stack 📚
