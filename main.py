@@ -5,7 +5,12 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
 markdown_text = """
-## KIM TAE HEON 👋
+# KIM TAE HEON 👋
+
+## 🌟 [**My Portfolio**](https://tae77777.oopy.io?color=auto) 🌟
+
+🔗 **Check out my work and projects here!**
+
 
 <br />
 
@@ -14,10 +19,6 @@ markdown_text = """
 ![TaeHeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jake-huen&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tae77777)](https://solved.ac/tae77777/)
-
-## 🌟 [**My Portfolio**](https://tae77777.oopy.io?color=auto) 🌟
-
-🔗 **Check out my work and projects here!**
 
 
 ## 📚 Tech Stack 📚
