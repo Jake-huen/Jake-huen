@@ -49,3 +49,9 @@
 
 ## ✅ 최근 작성한 블로그 글
 
+[2025/06/22 - Virtualbox에서 쿠버네티스를 설치하며 겪은 일들](http://jobdong7757.tistory.com/248) <br/> <br/>
+[2024/11/11 - 분산추적, Zipkin, Spring Cloud Sleuth](http://jobdong7757.tistory.com/247) <br/> <br/>
+[2024/07/22 - Kafka Topic replicationFactor 오류 원인 및 해결(Spring Kafka)](http://jobdong7757.tistory.com/246) <br/> <br/>
+[2024/07/05 - Jenkins, Kubernetes, Helm, ArgoCD 를 이용한 GitOps 적용](http://jobdong7757.tistory.com/245) <br/> <br/>
+[2024/05/20 - Worker Node를 내려야 할 필요가 있을 경우 안전한 이동](http://jobdong7757.tistory.com/244) <br/> <br/>
+[2024/04/25 - Spring Security를 사용하기 위해 알아야하는 사용자 요청의 흐름](http://jobdong7757.tistory.com/243) <br/> <br/>
